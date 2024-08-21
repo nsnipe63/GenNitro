@@ -1,1 +1,1 @@
-You must be install Python to open GenNitroV4
+
